@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   rules:
-  - host: firstnodeapp.com
+  - host: mynodeapp.com
     http:
       paths:
       - path: /node
